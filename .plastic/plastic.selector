@@ -1,4 +1,0 @@
-repository "TowerDefenseAR@armellini@cloud"
-  path "/"
-    br "/main"
-    co "/main"
