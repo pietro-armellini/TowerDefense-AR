@@ -23,7 +23,7 @@ Tower Defense AR is an exciting open-source augmented reality (AR) game develope
 
 
 # How to open the project
-1. Clone the Repository: First, clone the Tower Defense AR repository to your local machine using Git: ``` git clone https://github.com/your-username/tower-defense-ar.git``` 
+1. Clone the Repository: First, clone the Tower Defense AR repository to your local machine using Git: ``` git clone [https://github.com/your-username/tower-defense-ar.git](https://github.com/pietro-armellini/TowerDefense-AR.git)``` 
 
 2. Open Unity Editor: Open Unity Hub and select Unity Editor version 2022.3 (or later).
 
