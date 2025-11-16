@@ -12,8 +12,8 @@ public class SoundManager : MonoBehaviour
 	void Start()
     {
         //play the background music
-        //source.clip = clips[6];
-        //source.Play();
+        source.clip = clips[6];
+        source.Play();
     }
     
     //function for play a specific sound
